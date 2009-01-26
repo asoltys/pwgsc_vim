@@ -1,4 +1,4 @@
-cd C:\ColdFusion8\wwwroot\
+cd C:\CFusionMX7\wwwroot\
 set nohlsearch
 set hidden
 set history=1000
