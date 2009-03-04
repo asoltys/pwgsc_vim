@@ -1,4 +1,5 @@
-cd C:\CFusionMX7\wwwroot\
+cd C:\ColdFusion8\wwwroot\
+set runtimepath=~/.vim,$VIMRUNTIME
 set nohlsearch
 set hidden
 set history=1000
@@ -24,7 +25,7 @@ set visualbell
 set confirm
 set viminfo='20,<50,s10,h,%
 set guioptions+=c
-set guifont=Courier_New:h10:cANSI
+set guifont=Consolas:h12
 nohl
 syntax enable
 filetype on
